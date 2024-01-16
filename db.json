@@ -4,26 +4,26 @@
       "id": 1,
       "title": "Desenvolvedor Full Stack",
       "description": "Desenvolvedor full stack apaixonado por transformar designs em experiências web envolventes, com foco na precisão e inovação. Mantenho-me atualizado para criar sites impactantes.",
-      "image": "./img/fabrica.png"
+      "image": "https://i.imgur.com/noBr0gd.png"
     },
     {
       "id": 2,
       "title": "Ethical Hacker",
       "description": "Como hacker ético, minha missão é fortalecer a segurança digital, garantindo proteção e integridade. Da identificação de falhas à implementação de soluções, busco superar expectativas, proporcionando uma experiência online segura.",
-      "image": "./img/play.png"
+      "image": "https://i.imgur.com/oSpSngo.png"
     },
 
     {
       "id": 3,
       "title": "Web Desing",
       "description": "Como web designer, meu foco é transformar ideias em experiências visuais cativantes. Trabalho para criar sites esteticamente atrativos, mas também altamente funcionais e intuitivos.",
-      "image": "./img/gira.png"
+      "image": "https://i.imgur.com/WyE3zUs.png"
     },
     {
       "id": 4,
       "title": "UI/UX",
       "description": "Em UI/UX, busco aprimorar a interação entre usuários e sistemas digitais, criando experiências excepcionais. Minha abordagem abrange desde o design de interfaces atraentes até a otimização detalhada da jornada do usuário.",
-      "image": "./img/trofeu.png"
+      "image": "https://i.imgur.com/8D1zBLA.png"
     }
   ]
 }
