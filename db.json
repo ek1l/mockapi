@@ -81,5 +81,93 @@
       "linkprojeto": " https://kenziehubek1l.vercel.app/",
       "linkgithub": ""
     }
+  ],
+  "imagetechnologies": [
+    {
+      "id": 1,
+      "name": "Redux",
+      "image": "https://i.imgur.com/YkxcRQ1.png"
+    },
+    {
+      "id": 2,
+      "name": "Styled Components",
+      "image": "https://i.imgur.com/E6K0I3E.png"
+    },
+    {
+      "id": 3,
+      "name": "PostgreSQL",
+      "image": "https://i.imgur.com/lwXtmN1.png"
+    },
+    {
+      "id": 4,
+      "name": "MongoDB",
+      "image": "https://i.imgur.com/WXRlESz.png"
+    },
+    {
+      "id": 5,
+      "name": "Sass",
+      "image": "https://i.imgur.com/UU5f5v2.png"
+    },
+    {
+      "id": 6,
+      "name": "Express",
+      "image": "https://i.imgur.com/M5dMjLd.png"
+    },
+
+    {
+      "id": 7,
+      "name": "Github",
+      "image": "https://i.imgur.com/ITUfzqm.png"
+    },
+    {
+      "id": 8,
+      "name": "NextJS",
+      "image": "https://i.imgur.com/vizEWnm.png"
+    },
+    {
+      "id": 9,
+      "name": "Bootstrap",
+      "image": "https://i.imgur.com/9Qac6nM.png"
+    },
+    {
+      "id": 10,
+      "name": "Tailwind",
+      "image": "https://i.imgur.com/30cGd5Y.png"
+    },
+    {
+      "id": 11,
+      "name": "HTML5",
+      "image": "https://i.imgur.com/VSO963w.png"
+    },
+    {
+      "id": 12,
+      "name": "Javascript",
+      "image": "https://i.imgur.com/eLbAwgU.png"
+    },
+    {
+      "id": 13,
+      "name": "Git",
+      "image": "https://i.imgur.com/SNSoYNP.png"
+    },
+    {
+      "id": 14,
+      "name": "NodeJS",
+      "image": "https://i.imgur.com/yEe3KjL.png"
+    },
+    {
+      "id": 15,
+      "name": "ReactJS",
+      "image": "https://i.imgur.com/TE2gNRU.png"
+    },
+    {
+      "id": 16,
+      "name": "Typescript",
+      "image": "https://i.imgur.com/rZ59sXv.png"
+    },
+    {
+      "id": 17,
+      "name": "Cyber security",
+      "image": "https://i.imgur.com/MNPbOMA.png"
+    }
   ]
 }
