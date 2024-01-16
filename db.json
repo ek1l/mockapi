@@ -25,5 +25,43 @@
       "description": "Em UI/UX, busco aprimorar a interação entre usuários e sistemas digitais, criando experiências excepcionais. Minha abordagem abrange desde o design de interfaces atraentes até a otimização detalhada da jornada do usuário.",
       "image": "https://i.imgur.com/8D1zBLA.png"
     }
+  ],
+  "imageproject": [
+    {
+      "id": 1,
+      "title": "Dogs App",
+      "description": "O Dogs App tem a funcinalidade de criação de contas, recuperação de senhas, autenticação, compartilhamento de fotos, interações por comentários e visualização de gráficos. A preservação do estado em componentes reativos é garantida pelo uso da Context API.",
+      "technologies": "ReactJS, Context API."
+    },
+    {
+      "id": 2,
+      "title": "Food Commerce",
+      "description": "FoodCommerce, um PWA, possibilita aos usuários explorar um catálogo de alimentos, realizar pedidos e receber entregas. O backend, desenvolvido com Docker, gerencia o armazenamento de dados no banco de dados.",
+      "technologies": "Typescript, ReactJS, NodeJS, Express, Prisma, Docker, PostgreSQL."
+    },
+    {
+      "id": 3,
+      "title": "Fashion Store",
+      "description": "Desenvolvi este projeto seguindo práticas excelentes, empregando ReactJS e Redux para gestão de estado global. Inclui um painel administrativo para gerenciar fotos e funcionalidades de cadastro e acesso, garantindo uma experiência de usuário completa e segura.",
+      "technologies": "ReactJS, Redux, MongoDB, NodeJS, Express."
+    },
+    {
+      "id": 4,
+      "title": "Hambúrgueria Kenzie",
+      "description": "Um site simples desenvolvido com React e Context API, permitindo aos usuários explorar o cardápio de hambúrgueres.",
+      "technologies": "ReactJS, Context API."
+    },
+    {
+      "id": 5,
+      "title": "Clone Airbnb",
+      "description": "Projeto similar ao Airbnb, centrado na visualização de listagens de casas para aluguel. Utiliza a biblioteca Leaflet para renderizar mapas, estilizados com MapTiler, proporcionando uma experiência interativa e detalhada na busca por acomodações.",
+      "technologies": "Javascript vanilla, leafletjs."
+    },
+    {
+      "id": 6,
+      "title": "Kenzie Hub",
+      "description": "Bem-vindo ao Kenzie Hub, sua plataforma para desenvolver habilidades tecnológicas! Crie uma conta, faça login e acesse oportunidades para gerir seu progresso tecnológico de forma eficiente. Explore, aprenda e cresça no universo da tecnologia conosco!",
+      "technologies": "ReactJS, React useForm, Context API, CSS3, Toastify, Zod."
+    }
   ]
 }
