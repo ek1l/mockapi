@@ -181,21 +181,24 @@
       "title": "Faculdade Engenharia de Software",
       "description": "Em 2023, comecei minha graduação em Engenharia de Software !",
       "data": "15/07/2023",
-      "ano": "2023"
+      "ano": "2023",
+      "qualquercoisa": "Estácio"
     },
     {
       "id": 2,
       "title": "Desenvolvedor Front End",
       "description": "Em 2022, iniciei minha carreira como freelancer, criando websites responsivos e atraentes para o Instituto Hora.",
       "data": "26/09/2022",
-      "ano": "2022"
+      "ano": "2022",
+      "qualquercoisa": "Instituto Hora"
     },
     {
       "id": 3,
-      "title": "Comeceu os estudos",
+      "title": "Comecei os estudos",
       "description": "Em 2022, iniciei meus estudos em Front-end, aprimorando meus conhecimentos através de vídeos no YouTube e leitura de livros.",
       "data": "24/07/2022",
-      "ano": "2022"
+      "ano": "2022",
+      "qualquercoisa": "Na data:"
     }
   ]
 }
