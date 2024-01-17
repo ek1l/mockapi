@@ -78,7 +78,7 @@
       "description": "Bem-vindo ao Kenzie Hub, sua plataforma para desenvolver habilidades tecnológicas! Crie uma conta, faça login e acesse oportunidades para gerir seu progresso tecnológico de forma eficiente. Explore, aprenda e cresça no universo da tecnologia conosco!",
       "technologies": "ReactJS, React useForm, Context API, CSS3, Toastify, Zod.",
       "image": "https://i.imgur.com/1sKXtyV.png",
-      "linkprojeto": " https://kenziehubek1l.vercel.app/",
+      "linkprojeto": "https://kenziehubek1l.vercel.app/",
       "linkgithub": ""
     }
   ],
@@ -197,7 +197,7 @@
       "title": "Comecei os estudos",
       "description": "Em 2022, iniciei meus estudos em Front-end, aprimorando meus conhecimentos através de vídeos no YouTube e leitura de livros.",
       "data": "24/07/2022",
-      "ano": "2022",
+      "ano": "2022 ",
       "qualquercoisa": "Na data:"
     }
   ]
