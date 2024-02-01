@@ -85,8 +85,8 @@
       "id": 7,
       "title": "Ecommerce MERN STACK",
       "description": "Desenvolvi um sistema completo de comércio eletrônico, abrangendo tanto a interface do cliente quanto um robusto painel administrativo. No dashboard administrativo, proporciono ao administrador o controle total sobre o processo de compra do cliente, permitindo uma gestão eficiente e personalizada.",
-      "technologies": "Typescript,ReactJS,Redux,NodeJs,Express,MongoDB,Firebase",
-      "image": "https://i.imgur.com/NNEylNO.png",
+      "technologies": "Typescript, ReactJS, Redux, NodeJs, Express, MongoDB, Firebase",
+      "image": "https://i.imgur.com/hg7AOTh.png",
       "linkprojeto": "https://mern-stack-e-commerce-five.vercel.app/",
       "linkgithub": "https://github.com/ek1l?tab=repositories&q=Mern+stack&type=&language=&sort="
     }
