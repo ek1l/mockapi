@@ -46,6 +46,15 @@
       "linkgithub": "https://github.com/ek1l?tab=repositories&q=food&type=&language=&sort="
     },
     {
+      "id": 7,
+      "title": "Ecommerce MERN STACK",
+      "description": "Desenvolvi um sistema completo de comércio eletrônico, abrangendo tanto a interface do cliente quanto um robusto painel administrativo. No dashboard administrativo, proporciono ao administrador o controle total sobre o processo de compra do cliente, permitindo uma gestão eficiente e personalizada.",
+      "technologies": "Typescript, ReactJS, Redux, NodeJs, Express, MongoDB, Firebase",
+      "image": "https://i.imgur.com/hg7AOTh.png",
+      "linkprojeto": "https://mern-stack-e-commerce-five.vercel.app/",
+      "linkgithub": "https://github.com/ek1l?tab=repositories&q=Mern+stack&type=&language=&sort="
+    },
+    {
       "id": 3,
       "title": "Fashion Store",
       "description": "Desenvolvi este projeto seguindo práticas excelentes, empregando ReactJS e Redux para gestão de estado global. Inclui um painel administrativo para gerenciar fotos e funcionalidades de cadastro e acesso, garantindo uma experiência de usuário completa e segura.",
@@ -80,15 +89,6 @@
       "image": "https://i.imgur.com/1sKXtyV.png",
       "linkprojeto": "https://kenziehubek1l.vercel.app/",
       "linkgithub": ""
-    },
-    {
-      "id": 7,
-      "title": "Ecommerce MERN STACK",
-      "description": "Desenvolvi um sistema completo de comércio eletrônico, abrangendo tanto a interface do cliente quanto um robusto painel administrativo. No dashboard administrativo, proporciono ao administrador o controle total sobre o processo de compra do cliente, permitindo uma gestão eficiente e personalizada.",
-      "technologies": "Typescript, ReactJS, Redux, NodeJs, Express, MongoDB, Firebase",
-      "image": "https://i.imgur.com/hg7AOTh.png",
-      "linkprojeto": "https://mern-stack-e-commerce-five.vercel.app/",
-      "linkgithub": "https://github.com/ek1l?tab=repositories&q=Mern+stack&type=&language=&sort="
     }
   ],
   "imagetechnologies": [
