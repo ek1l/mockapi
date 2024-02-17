@@ -367,15 +367,16 @@
     }
   ],
   "conquistas": [
-    { "id": 9, "conquista": "https://i.imgur.com/L9dDL6K.png" },
-    { "id": 5, "conquista": "https://i.imgur.com/04mO8yh.png" },
-    { "id": 4, "conquista": "https://i.imgur.com/XYE6KJc.png" },
-    { "id": 7, "conquista": "https://i.imgur.com/7zCMyKM.png" },
-    { "id": 6, "conquista": "https://i.imgur.com/eVjfpdB.png" },
-    { "id": 1, "conquista": "https://i.imgur.com/njgzbsW.png" },
-    { "id": 2, "conquista": "https://i.imgur.com/vFXn2lb.png" },
-    { "id": 3, "conquista": "https://i.imgur.com/U74AV38.png" },
-    { "id": 8, "conquista": "https://i.imgur.com/2eKtN8H.png" },
-    { "id": 9, "conquista": "https://i.imgur.com/IfCEDOZ.png" }
+    { "id": 1, "conquista": "https://i.imgur.com/L9dDL6K.png" },
+    { "id": 2, "conquista": "https://i.imgur.com/04mO8yh.png" },
+    { "id": 3, "conquista": "https://i.imgur.com/XYE6KJc.png" },
+    { "id": 4, "conquista": "https://i.imgur.com/7zCMyKM.png" },
+    { "id": 5, "conquista": "https://i.imgur.com/eVjfpdB.png" },
+    { "id": 6, "conquista": "https://i.imgur.com/L42z2S3.png" },
+    { "id": 7, "conquista": "https://i.imgur.com/njgzbsW.png" },
+    { "id": 8, "conquista": "https://i.imgur.com/vFXn2lb.png" },
+    { "id": 9, "conquista": "https://i.imgur.com/U74AV38.png" },
+    { "id": 10, "conquista": "https://i.imgur.com/2eKtN8H.png" },
+    { "id": 11, "conquista": "https://i.imgur.com/IfCEDOZ.png" }
   ]
 }
