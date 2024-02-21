@@ -240,6 +240,10 @@
       "certificate": "https://i.imgur.com/vSd7l1K.jpg"
     },
     {
+      "id": 40,
+      "certificate": "https://i.imgur.com/2xraI8J.png"
+    },
+    {
       "id": 6,
       "certificate": "https://i.imgur.com/Hf20unm.png"
     },
@@ -367,6 +371,7 @@
     }
   ],
   "conquistas": [
+    { "id": 13, "conquista": "https://i.imgur.com/vbnUBU1.png" },
     { "id": 1, "conquista": "https://i.imgur.com/L9dDL6K.png" },
     { "id": 2, "conquista": "https://i.imgur.com/04mO8yh.png" },
     { "id": 3, "conquista": "https://i.imgur.com/XYE6KJc.png" },
