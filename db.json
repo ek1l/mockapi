@@ -186,6 +186,14 @@
   ],
   "cardexperiencia": [
     {
+      "id": 4,
+      "title": "Cyber Security - Red Team",
+      "description": "Em 2024, iniciei meu estágio em Cyber Security.",
+      "data": "04/03/2024",
+      "ano": "2024",
+      "qualquercoisa": "iT.eam"
+    },
+    {
       "id": 1,
       "title": "Faculdade Engenharia de Software",
       "description": "Em 2023, iniciei minha graduação em Engenharia de Software, buscando conhecimento e realização profissional.",
