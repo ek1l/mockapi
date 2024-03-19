@@ -220,10 +220,6 @@
   ],
   "certificates": [
     {
-      "id": 40,
-      "certificate": "https://i.imgur.com/Dm2iMQN.jpeg"
-    },
-    {
       "id": 39,
       "certificate": "https://i.imgur.com/IO1arGf.png"
     },
@@ -395,6 +391,7 @@
     { "id": 9, "conquista": "https://i.imgur.com/U74AV38.png" },
     { "id": 12, "conquista": "https://i.imgur.com/1ccoW5t.png" },
     { "id": 10, "conquista": "https://i.imgur.com/2eKtN8H.png" },
-    { "id": 11, "conquista": "https://i.imgur.com/IfCEDOZ.png" }
+    { "id": 11, "conquista": "https://i.imgur.com/IfCEDOZ.png" },
+    { "id": 14, "conquista": "https://i.imgur.com/Dm2iMQN.jpeg" }
   ]
 }
