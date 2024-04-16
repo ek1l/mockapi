@@ -182,6 +182,11 @@
       "id": 18,
       "name": "Gulp",
       "image": "https://i.imgur.com/mcibipI.png"
+    },
+    {
+      "id": 19,
+      "name": "Jest",
+      "image": "https://i.imgur.com/leb9wjb.png"
     }
   ],
   "cardexperiencia": [
